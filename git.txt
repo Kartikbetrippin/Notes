@@ -5,6 +5,8 @@ git commit -m "<message>"
 git log
 git diff <file> 
 git checkout <file>
+git checkout <branch>
 git remote add <name usually origin> <link>
 git push origin <branch>
 git push -u (to link) origin <branch>
+git merge <branch>
