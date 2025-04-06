@@ -1,0 +1,20 @@
+ls – List files
+cd <dir> – Change directory
+pwd – Show current directory
+mkdir <dir> – Create a directory
+rm -r <dir> – Delete directory recursively
+touch <file> – Create empty file
+cp <src> <dst> – Copy file/folder
+mv <src> <dst> – Move or rename file/folder
+cat <file> – Show file content
+clear – Clear terminal
+
+Ctrl + A – Start of line
+Ctrl + E – End of line
+Ctrl + U – Clear before cursor
+Ctrl + K – Clear after cursor
+Ctrl + W – Delete word before cursor
+Ctrl + L – Clear screen
+Ctrl + R – Search command history
+Tab – Autocomplete
+↑ / ↓ – Command history
